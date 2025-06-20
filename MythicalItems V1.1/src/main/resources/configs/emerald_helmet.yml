@@ -1,0 +1,18 @@
+# Wearable Options
+armor: 3
+
+# Damageable Options
+max_durability: 363
+repair_ingredient: minecraft:emerald
+
+# Enchantable Options
+enchantment_value: 10
+supported_enchantments:
+  - minecraft:protection
+  - minecraft:fire_protection
+  - minecraft:blast_protection
+  - minecraft:projectile_protection
+  - minecraft:respiration
+  - minecraft:aqua_affinity
+  - minecraft:unbreaking
+  - minecraft:mending

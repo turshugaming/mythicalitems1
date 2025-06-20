@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "mythicalitems:emerald_sword",
+  "shape": [
+    ".e.",
+    ".e.",
+    ".s."
+  ],
+  "ingredients": {
+    "e": "minecraft:emerald",
+    "s": "minecraft:stick"
+  }
+}

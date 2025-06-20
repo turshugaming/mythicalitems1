@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "mythicalitems:emerald_pickaxe",
+  "shape": [
+    "eee",
+    ".s.",
+    ".s."
+  ],
+  "ingredients": {
+    "e": "minecraft:emerald",
+    "s": "minecraft:stick"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "mythicalitems:emerald_axe",
+  "shape": [
+    "ee.",
+    "es.",
+    ".s."
+  ],
+  "ingredients": {
+    "e": "minecraft:emerald",
+    "s": "minecraft:stick"
+  }
+}

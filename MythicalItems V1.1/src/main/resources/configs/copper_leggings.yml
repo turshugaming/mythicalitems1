@@ -1,0 +1,17 @@
+# Wearable Options
+armor: 4
+
+# Damageable Options
+max_durability: 105
+repair_ingredient: minecraft:copper
+
+# Enchantable Options
+enchantment_value: 10
+supported_enchantments:
+  - minecraft:protection
+  - minecraft:fire_protection
+  - minecraft:blast_protection
+  - minecraft:projectile_protection
+  - minecraft:swift_sneak
+  - minecraft:unbreaking
+  - minecraft:mending

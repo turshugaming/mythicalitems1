@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "mythicalitems:emerald_shovel",
+  "shape": [
+    ".e.",
+    ".s.",
+    ".s."
+  ],
+  "ingredients": {
+    "e": "minecraft:emerald",
+    "s": "minecraft:stick"
+  }
+}

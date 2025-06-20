@@ -1,0 +1,27 @@
+# Tool Options
+tool_tier: minecraft:diamond
+tool_category: minecraft:sword
+break_speed: 1.5
+attack_damage: 7
+attack_speed: 1.6
+can_sweep_attack: true
+can_break_blocks_in_creative: true
+
+# Damageable Options
+max_durability: 1561
+item_damage_on_attack_entity: 1
+item_damage_on_break_block: 2
+repair_ingredient: minecraft:emerald
+
+# Enchantable Options
+enchantment_value: 10
+supported_enchantments:
+  - minecraft:sharpness
+  - minecraft:smite
+  - minecraft:bane_of_arthropods
+  - minecraft:knockback
+  - minecraft:fire_aspect
+  - minecraft:looting
+  - minecraft:sweeping
+  - minecraft:unbreaking
+  - minecraft:mending

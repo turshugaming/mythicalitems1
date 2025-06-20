@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "mythicalitems:emerald_hoe",
+  "shape": [
+    "ee.",
+    ".s.",
+    ".s."
+  ],
+  "ingredients": {
+    "e": "minecraft:emerald",
+    "s": "minecraft:stick"
+  }
+}
